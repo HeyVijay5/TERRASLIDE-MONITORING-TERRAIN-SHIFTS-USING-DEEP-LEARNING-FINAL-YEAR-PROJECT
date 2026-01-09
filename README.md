@@ -1,0 +1,2 @@
+# HeyVijay5-TERRASLIDE---MONITORING-TERRAIN-SHIFTS-USING-DEEP-LEARNING
+Landslides are among the most devastating and unpredictable natural disasters, posing significant threats to human lives, infrastructure, and ecological systems, particularly in hilly and mountainous regions. Accurate and early detection of landslide-prone zones plays a vital role in risk mitigation, emergency preparedness,  land-use planning. 
